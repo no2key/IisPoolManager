@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IisPoolManager" GeneratedClassName="IISPoolManager">
+  <Profiles />
+  <Settings>
+    <Setting Name="pool" Type="System.String" Scope="User">
+      <Value Profile="(Default)">edoclib</Value>
+    </Setting>
+    <Setting Name="interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">osin</Value>
+    </Setting>
+    <Setting Name="user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">osin</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lbvfnb1989@@###</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
