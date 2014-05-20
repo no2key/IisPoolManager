@@ -3,19 +3,19 @@
   <Profiles />
   <Settings>
     <Setting Name="pool" Type="System.String" Scope="User">
-      <Value Profile="(Default)">edoclib</Value>
+      <Value Profile="(Default)">defpool</Value>
     </Setting>
     <Setting Name="interval" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">30</Value>
     </Setting>
     <Setting Name="host" Type="System.String" Scope="User">
-      <Value Profile="(Default)">osin</Value>
+      <Value Profile="(Default)">192.168.1.20</Value>
     </Setting>
     <Setting Name="user" Type="System.String" Scope="User">
-      <Value Profile="(Default)">osin</Value>
+      <Value Profile="(Default)">admin</Value>
     </Setting>
     <Setting Name="password" Type="System.String" Scope="User">
-      <Value Profile="(Default)">lbvfnb1989@@###</Value>
+      <Value Profile="(Default)">123456</Value>
     </Setting>
   </Settings>
 </SettingsFile>
